@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/dd4d35487f875d171cf96f03403c5ff2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/b4b371b524bd3452cf95483b4bc2fbc0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/cb0325967e77f13fb2585d81edbf223d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-rc01] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/ce17e9efb5906a7ce3d07cc8d3e03f3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.1.0-rc01] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/0ae9f00fd23a06c99794b7589b79c15e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/7dcd72b5a0ff2b1f6bc4a0ce15dd9993/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/33df9e81a8ae672e3fa2a6ea4282431b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/85a0b7747b993d11c715ef2a1c5e90d2/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/79ecf11647f6848b950f43668376dc92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/63b4523ee0ae78d8380df857f5d26e2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/664fa7c9ff0b1a426a454f4b21faab46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/8c8e6c09a4553d31a4e6f76994de471f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/c79cd69534ea82724f55d61abb84721e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/845373515ae808b947668cd8a231df5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/9d8fa60f150bbeba5a7e2639ae678d8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/1fc68e571c9392295b604dd2059592cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e37af5e099128146eacee719bc3f334f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5d2807d6d2d4ae011515e2518d6be74d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e12a094d40258f8bc3bb7159810a17b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/2ad9fd363ee27274aa5fbce83b2acef3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/0460f64beae7c45de2f6e165ec4a0718/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e7f052a273a304c812e992b786c132e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/7683a0101b94729fba2f7aabe0c14285/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/b19a6e01daebe919f36d98980717ff07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/224f51474071f4e58aace21bf60a9618/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/3c905874adf468f818d04d11abc9b4a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/501c309099185aa9699916f564bab3b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/83de5b373e2c8134cf4348bbbc89b897/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/bfc437e19294e90bb9601910f5cbbc69/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/054c535aeea46eeb9d334d42412e6118/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/eb8fbba6b6a6ee1fa308dce084e2dbd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/f840c2a06b9f887d9e6c2b2d12bc61d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/c5c9363016fd9b5d390086340ed53a7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/56389817ec4666a4f5be09b05bc97cff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/d0caafac4ec39e59a049a5a4541f8065/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5351356fa4ba476c9d4e6732b836ca80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5e464c055501cebab8f37ff1028c7634/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/ef6fdccb441c6a39ab8e114347b23155/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/33df9e81a8ae672e3fa2a6ea4282431b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/33df9e81a8ae672e3fa2a6ea4282431b/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/85a0b7747b993d11c715ef2a1c5e90d2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/85a0b7747b993d11c715ef2a1c5e90d2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/224f51474071f4e58aace21bf60a9618/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/224f51474071f4e58aace21bf60a9618/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/bfc437e19294e90bb9601910f5cbbc69/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/bfc437e19294e90bb9601910f5cbbc69/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/224f51474071f4e58aace21bf60a9618/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:11:9-53
+	android:icon
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.dongsun.github.MainActivity
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:14:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/dd4d35487f875d171cf96f03403c5ff2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/dd4d35487f875d171cf96f03403c5ff2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/b4b371b524bd3452cf95483b4bc2fbc0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/b4b371b524bd3452cf95483b4bc2fbc0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/cb0325967e77f13fb2585d81edbf223d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/cb0325967e77f13fb2585d81edbf223d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-rc01] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/ce17e9efb5906a7ce3d07cc8d3e03f3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-rc01] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/ce17e9efb5906a7ce3d07cc8d3e03f3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0-rc01] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/0ae9f00fd23a06c99794b7589b79c15e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0-rc01] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/0ae9f00fd23a06c99794b7589b79c15e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/7dcd72b5a0ff2b1f6bc4a0ce15dd9993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/7dcd72b5a0ff2b1f6bc4a0ce15dd9993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/33df9e81a8ae672e3fa2a6ea4282431b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/33df9e81a8ae672e3fa2a6ea4282431b/AndroidManifest.xml:7:5-43
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/85a0b7747b993d11c715ef2a1c5e90d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/85a0b7747b993d11c715ef2a1c5e90d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/79ecf11647f6848b950f43668376dc92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/79ecf11647f6848b950f43668376dc92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/63b4523ee0ae78d8380df857f5d26e2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/63b4523ee0ae78d8380df857f5d26e2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/664fa7c9ff0b1a426a454f4b21faab46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/664fa7c9ff0b1a426a454f4b21faab46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/8c8e6c09a4553d31a4e6f76994de471f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/8c8e6c09a4553d31a4e6f76994de471f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/c79cd69534ea82724f55d61abb84721e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/c79cd69534ea82724f55d61abb84721e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/845373515ae808b947668cd8a231df5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/845373515ae808b947668cd8a231df5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/9d8fa60f150bbeba5a7e2639ae678d8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/9d8fa60f150bbeba5a7e2639ae678d8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/1fc68e571c9392295b604dd2059592cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/1fc68e571c9392295b604dd2059592cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e37af5e099128146eacee719bc3f334f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e37af5e099128146eacee719bc3f334f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5d2807d6d2d4ae011515e2518d6be74d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5d2807d6d2d4ae011515e2518d6be74d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e12a094d40258f8bc3bb7159810a17b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e12a094d40258f8bc3bb7159810a17b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/2ad9fd363ee27274aa5fbce83b2acef3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/2ad9fd363ee27274aa5fbce83b2acef3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/0460f64beae7c45de2f6e165ec4a0718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/0460f64beae7c45de2f6e165ec4a0718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e7f052a273a304c812e992b786c132e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/e7f052a273a304c812e992b786c132e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/7683a0101b94729fba2f7aabe0c14285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/7683a0101b94729fba2f7aabe0c14285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/b19a6e01daebe919f36d98980717ff07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/b19a6e01daebe919f36d98980717ff07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/224f51474071f4e58aace21bf60a9618/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/224f51474071f4e58aace21bf60a9618/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/3c905874adf468f818d04d11abc9b4a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/3c905874adf468f818d04d11abc9b4a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/501c309099185aa9699916f564bab3b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/501c309099185aa9699916f564bab3b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/83de5b373e2c8134cf4348bbbc89b897/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/83de5b373e2c8134cf4348bbbc89b897/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/bfc437e19294e90bb9601910f5cbbc69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/bfc437e19294e90bb9601910f5cbbc69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/054c535aeea46eeb9d334d42412e6118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/054c535aeea46eeb9d334d42412e6118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/eb8fbba6b6a6ee1fa308dce084e2dbd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/eb8fbba6b6a6ee1fa308dce084e2dbd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/f840c2a06b9f887d9e6c2b2d12bc61d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/f840c2a06b9f887d9e6c2b2d12bc61d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/c5c9363016fd9b5d390086340ed53a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/c5c9363016fd9b5d390086340ed53a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/56389817ec4666a4f5be09b05bc97cff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/56389817ec4666a4f5be09b05bc97cff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/d0caafac4ec39e59a049a5a4541f8065/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/d0caafac4ec39e59a049a5a4541f8065/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5351356fa4ba476c9d4e6732b836ca80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5351356fa4ba476c9d4e6732b836ca80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5e464c055501cebab8f37ff1028c7634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/5e464c055501cebab8f37ff1028c7634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/ef6fdccb441c6a39ab8e114347b23155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/ef6fdccb441c6a39ab8e114347b23155/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongsunyeom/Desktop/projects/Jetpack/DongsunTest/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/dongsunyeom/.gradle/caches/transforms-2/files-2.1/28db617ffa17592235126d88d1572496/AndroidManifest.xml:24:13-79
